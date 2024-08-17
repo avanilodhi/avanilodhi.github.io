@@ -584,11 +584,11 @@ noscript{
     }
   }
   
-  /* #name:hover{
+  #name:hover{
     -webkit-animation: vibrate-1 0.3s linear both;
     animation: vibrate-1 0.3s linear both;
 }
-   */
+  
 #name{
     font-size: 8rem;
     font-weight:700;
