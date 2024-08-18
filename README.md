@@ -1,7 +1,5 @@
 # avanilodhi.github.io
 
-# Avani Lodhi's Portfolio
-
 ## 👩‍💻 About Me
 
 Hi, I'm Avani Lodhi, an aspiring Full-Stack Web Developer with a B.Tech in Mechanical Engineering. My journey into web development began with a deep passion for coding and technology, which led me to transition from mechanical engineering to the dynamic field of software development. I’m committed to continuous learning and am eager to contribute to innovative projects that leverage technology to solve real-world problems.
