@@ -37,7 +37,7 @@ Feel free to connect with me to discuss web development projects, collaboration 
 
 ### 🌐 Portfolio
 
-Visit my portfolio to see more of my work: [Avani Lodhi Portfolio](https://avanilodhi-portfolio.netlify.app/)
+Visit my portfolio to see more of my work: [Avani Lodhi Portfolio](avanilodhi.github.io/)
 
 ---
 
