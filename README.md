@@ -2,7 +2,13 @@
 
 ## 👩‍💻 About Me
 
-Hi, I'm Avani Lodhi, an aspiring Full-Stack Web Developer with a B.Tech in Mechanical Engineering. My journey into web development began with a deep passion for coding and technology, which led me to transition from mechanical engineering to the dynamic field of software development. I’m committed to continuous learning and am eager to contribute to innovative projects that leverage technology to solve real-world problems.
+Hey, I’m Avani — a Backend Developer currently working at Es Mágico, where I get to build real-world APIs and backend systems for fast-growing startups and D2C brands like Plum.
+
+I originally started out in Mechanical Engineering but quickly realized my real passion was in tech. I made the switch, joined an intensive full-stack course at Masai School, and haven’t looked back since.
+
+These days, I’m mostly working with Node.js, NestJS, MongoDB, and third-party tools like Shopify and Razorpay. I love solving backend puzzles, optimizing APIs, and shipping features that power great user experiences.
+
+When I’m not coding, you’ll probably find me taking street photos or working out. 😄
 
 ### 🚀 Skills and Technologies
 
