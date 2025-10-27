@@ -2,13 +2,15 @@
 
 ## 👩‍💻 About Me
 
-Hey, I’m Avani — a Backend Developer currently working at Es Mágico, where I get to build real-world APIs and backend systems for fast-growing startups and D2C brands like Plum.
+👋 Hey, I’m Avani Lodhi
 
-I originally started out in Mechanical Engineering but quickly realized my real passion was in tech. I made the switch, joined an intensive full-stack course at Masai School, and haven’t looked back since.
+I’m a Backend Developer who loves turning ideas into reliable, scalable systems. I’ve worked with Es Mágico, where I built and optimized real-world APIs and backend logic for fast-growing startups and D2C brands like Plum.
 
-These days, I’m mostly working with Node.js, NestJS, MongoDB, and third-party tools like Shopify and Razorpay. I love solving backend puzzles, optimizing APIs, and shipping features that power great user experiences.
+Before that, I trained as a Full-Stack Apprentice at Masai, sharpening my skills in Node.js, NestJS, MongoDB, and JavaScript, and also worked at Asian Business Services & Technologies, where I handled complex API logic and Oracle PL/SQL systems.
 
-When I’m not coding, you’ll probably find me taking street photos or working out. 😄
+What started as a B.Tech in Mechanical Engineering turned into a real passion for tech, and I’ve been hooked ever since. These days, I enjoy solving backend challenges, learning new tools, and building things that make an impact.
+
+When I’m not coding, you’ll find me taking photos, reading, or working out, it keeps my mind creative and my energy high. 💪📸
 
 ### 🚀 Skills and Technologies
 
